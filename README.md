@@ -1,3 +1,3 @@
-Pemograman Web
-hasil
-<img src="foto.jpg" alt="foto" width="400" height="248">
+# hasil pemograman web
+
+<img src="foto.jpg" alt="foto" width="1280" height="720">
