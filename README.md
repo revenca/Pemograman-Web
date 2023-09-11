@@ -4,11 +4,6 @@ Tugas 1
 <html>
 <head>  
     <title>Motor</title>
-    <style>
-        body {
-            background-color: gray;
-        }
-    </style>
 </head>
 <body>
     <center><h1>Motor</h1></center>
