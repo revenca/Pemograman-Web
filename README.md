@@ -2,8 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>  
-    <title>Motor</title>
-</head>
 <body>
     <center><h1>Motor</h1></center>
     <hr>
